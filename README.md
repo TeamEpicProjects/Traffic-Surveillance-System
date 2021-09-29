@@ -8,3 +8,7 @@ In a traffic management system, the surveillance component is the process in whi
       3. Monitor system performance.
 
 To build a custom object detection system with respect to traffic surveillance like vehicle classification, helmet detection, triple riding detection & number plate detection. So, the complete project aims at developing a model to classify the type of vehicles, helmet detection, number plate detection and triple riding detection.
+
+# Flowchart:
+![Untitled](https://user-images.githubusercontent.com/73810961/135345373-d5004c0c-b84a-4d5b-9c56-6a2131b107d5.png)
+
