@@ -12,3 +12,7 @@ To build a custom object detection system with respect to traffic surveillance l
 # Flowchart:
 ![Untitled](https://user-images.githubusercontent.com/73810961/135345373-d5004c0c-b84a-4d5b-9c56-6a2131b107d5.png)
 
+# Datasets:
+Dataset collected by whole team members in real time from different states of India. The locations were selected in such a way that we can get a heterogenous traffic volume and varying traffic flow so that we can observe various categories of vehicles, large number of vehicles so that chances of getting such data set where it can be observed that traffic rules are violated like absence of number plate, helmet and triple riding cases. Also, we collected the dataset in different lighting condition, so that it can work in any lighting condition on real time.
+![image](https://user-images.githubusercontent.com/73810961/135346376-477e321f-9d77-4776-8c85-1843616a80ab.jpg)
+
