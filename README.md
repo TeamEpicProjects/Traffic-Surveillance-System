@@ -3,6 +3,7 @@
 Traffic surveillance systems have been around for quite a while across various cities worldwide. The ubiquitous presence of closed circuit cameras, vehicle plate detection systems and LED lane control lights has made traffic and incident management smooth and efficient. 
 
 In a traffic management system, the surveillance component is the process in which data is collected in the field. This data is used to supply information about conditions in the field to other system components. Surveillance provides the information needed to perform the following functions:
+      
       1. Measure traffic and environmental conditions. 
       2. Make control decisions. 
       3. Monitor system performance.
