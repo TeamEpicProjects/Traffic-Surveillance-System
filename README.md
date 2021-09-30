@@ -29,9 +29,3 @@ We label the dataset with 6 classes.
 
 # Model and Training:
 We use various types of model like YOLOV3, YOLOV3-tiny, YOLOV4, YOLOV4-tiny, YOLOV4 with Pytorch. 
-
-
-## Flow Chart
-![Untitled1](https://user-images.githubusercontent.com/73810961/135403861-ac0d88e7-2b6d-4f3f-8b0c-ac4decaacabf.png)
-## Use Case
-![Untitled2](https://user-images.githubusercontent.com/73810961/135403867-f82e48dd-7d18-414a-a4fe-5309f640ea3b.png)
