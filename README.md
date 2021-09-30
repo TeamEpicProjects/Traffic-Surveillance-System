@@ -57,6 +57,10 @@ For model weights you have to train it on your own dataset and then use those we
        
       In the terminal you will get output as 
       
-      **Connected
+      **Connected**
       
-      Running at localhost:5000**
+      **Running at localhost:5000**
+      
+      Now that your Code is running without any erros, you have to test if it is detecting any objects or not. For that we will use Postman.
+      
+      Go to the postman, select POST request and add **http://0.0.0.0://5000/image/** 
