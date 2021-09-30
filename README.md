@@ -18,3 +18,7 @@ Dataset collected by whole team members in real time from different states of In
 ![image](https://user-images.githubusercontent.com/73810961/135346376-477e321f-9d77-4776-8c85-1843616a80ab.jpg)
 
 # Model and Training:
+
+
+![Untitled1](https://user-images.githubusercontent.com/73810961/135403861-ac0d88e7-2b6d-4f3f-8b0c-ac4decaacabf.png)
+![Untitled2](https://user-images.githubusercontent.com/73810961/135403867-f82e48dd-7d18-414a-a4fe-5309f640ea3b.png)
