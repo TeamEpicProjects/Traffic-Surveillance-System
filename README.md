@@ -37,4 +37,16 @@ For model weights you have to train it on your own dataset and then use those we
 
        git clone https://github.com/TeamEpicProjects/Traffic-Surveillance-System.git
 
-There are many folders in this repository, you only have to use **Pipeline** as it contains all the code you need to run the Traffic Surveillance System.
+      There are many folders in this repository, you only have to use **Pipeline** as it contains all the code you need to run the Traffic Surveillance System.
+
+
+2. Requirement File download
+
+      You need to install all requirement  libraries. 
+      
+       cd Pipeline
+       Python install -r Req.txt
+
+3. Weights, cfg and names file
+
+      In pipeline.py file you have to give a path to your weights, cfg and names files from line number 51 to 63
