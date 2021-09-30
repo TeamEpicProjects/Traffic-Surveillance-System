@@ -67,8 +67,14 @@ For model weights you have to train it on your own dataset and then use those we
       
       ![image](https://user-images.githubusercontent.com/63397654/135412532-4c64fdb1-a382-43a2-b6ab-2b8ac10c2f92.png)
       
+      After seding request you will get output in JSON format which will contain Vehicle Type and Violation type.
       
-      
-      
+4. Web Integration
+
+      It's time to deploy our model into the web for that you have to open **Web_Integration** Folder into seprate VS code window and start nodejs server.
+            
+            npm install
+            npm start
+            
       ![image](https://user-images.githubusercontent.com/63397654/135413058-8253e1b0-b301-4086-ac59-eb1a8a306780.png)
 
