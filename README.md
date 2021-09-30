@@ -66,4 +66,9 @@ For model weights you have to train it on your own dataset and then use those we
       Go to the postman, select POST request and add **http://0.0.0.0/5000/image/**
       
       ![image](https://user-images.githubusercontent.com/63397654/135412532-4c64fdb1-a382-43a2-b6ab-2b8ac10c2f92.png)
+      
+      
+      
+      
+      ![image](https://user-images.githubusercontent.com/63397654/135413058-8253e1b0-b301-4086-ac59-eb1a8a306780.png)
 
