@@ -63,5 +63,7 @@ For model weights you have to train it on your own dataset and then use those we
       
       Now that your Code is running without any erros, you have to test if it is detecting any objects or not. For that we will use Postman.
       
-      Go to the postman, select POST request and add **http://0.0.0.0://5000/image/** 
-![image](https://user-images.githubusercontent.com/54981696/135412202-ad81b218-2860-4f9e-bb5a-c8d91988b9b4.jpeg)
+      Go to the postman, select POST request and add **http://0.0.0.0/5000/image/**
+      
+      ![image](https://user-images.githubusercontent.com/63397654/135412532-4c64fdb1-a382-43a2-b6ab-2b8ac10c2f92.png)
+
