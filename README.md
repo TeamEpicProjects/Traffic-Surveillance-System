@@ -42,11 +42,21 @@ For model weights you have to train it on your own dataset and then use those we
 
 2. Requirement File download
 
-      You need to install all requirement  libraries. 
+      You need to install all required  libraries. 
       
        cd Pipeline
        Python install -r Req.txt
 
 3. Weights, cfg and names file
 
-      In pipeline.py file you have to give a path to your weights, cfg and names files from line number 51 to 63
+      In pipeline.py file you have to give a path to your weights, cfg and names files from line number 51 to 63.
+      
+      After adding weights file, now you can run pipeline.py
+      
+       python pipeline.py
+       
+      In the terminal you will get output as 
+      
+      **Connected
+      
+      Running at localhost:5000**
