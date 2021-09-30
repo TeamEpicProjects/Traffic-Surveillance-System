@@ -71,7 +71,7 @@ For model weights you have to train it on your own dataset and then use those we
       
 4. Web Integration
 
-      It's time to deploy our model into the web for that you have to open **Web_Integration** Folder into seprate VS code window and start nodejs server.
+      It's time to deploy the model on the web for that you have to open **Pipeline -> Web_Integration** Folder into seprate VS Code window and start **nodejs server**.
             
             npm install
             npm start
