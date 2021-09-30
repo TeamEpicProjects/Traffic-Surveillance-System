@@ -32,3 +32,9 @@ We use various types of model like YOLOV3, YOLOV3-tiny, YOLOV4, YOLOV4-tiny, YOL
 
 ## How to use the Model
 For model weights you have to train it on your own dataset and then use those weights in pipeline.py.
+
+1. Git Clone
+
+       git clone https://github.com/TeamEpicProjects/Traffic-Surveillance-System.git
+
+There are many folders in this repository, you only have to use **Pipeline** as it contains all the code you need to run the Traffic Surveillance System.
