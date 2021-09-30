@@ -28,4 +28,7 @@ We label the dataset with 6 classes.
 ![image](https://user-images.githubusercontent.com/73810961/135346376-477e321f-9d77-4776-8c85-1843616a80ab.jpg)
 
 # Model and Training:
-We use various types of model like YOLOV3, YOLOV3-tiny, YOLOV4, YOLOV4-tiny, YOLOV4 with Pytorch. 
+We use various types of model like YOLOV3, YOLOV3-tiny, YOLOV4, YOLOV4-tiny, YOLOV4 with Pytorch. For the final model we used **YOLOV3**. 
+
+## How to use the Model
+For model weights you have to train it on your own dataset and then use those weights in pipeline.py.
