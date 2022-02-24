@@ -1,1 +1,1 @@
-# This folder contains assignments, and models trained using YOLO using OpemCV and Pytorch 
+# This folder contains assignments, and models trained using YOLO using OpenCV and Pytorch 
